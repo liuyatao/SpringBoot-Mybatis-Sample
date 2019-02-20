@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MybatisSampleApplication",
+            "request": "launch",
+            "mainClass": "com.example.demo.MybatisSampleApplication",
+            "projectName": "demo"
+        }
+    ]
+}
