@@ -1,3 +1,1 @@
-# SpringBoot-Mybatis
-
-Spring boot 中使用MyBatis & Mybatis 学习。
+# SpringBoot Mybatis 整合示例
